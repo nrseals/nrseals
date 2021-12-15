@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathan Seals
-- 👀 I’m interested in Movies, Television, Video Games, Cooking
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on FullStack Python or Java.
+- 👀 I’m interested in Music, Movies, Television, Video Games, Cooking
+- 🌱 I’m currently learning Flask
+- 💞️ I’m looking to collaborate Full Stack Python, Java, or MERN
 - 📫 How to reach me nrseals@outlook.com
 
 <!---
